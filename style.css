@@ -269,3 +269,26 @@
     font-weight: 700;
     outline: none;
 }
+
+.footer {
+    background-color: #0a0e17;
+    padding: 5rem 0;
+}
+
+.footer div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer div h1 {
+    color: #ff595a;
+    font-family: "Lobster", cursive;
+    font-size: 3rem;
+}
+
+.footer div p {
+    color: white;
+    font-family: "Manrope", sans-serif;
+}
