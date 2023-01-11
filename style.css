@@ -223,6 +223,49 @@
     margin-top: 1rem;
 }
 
-.details-text-container {
-    
+.update-section {
+    text-align: center;
+}
+
+.update-section div {
+    padding: 5rem 10rem;
+    background-color: antiquewhite;
+    width: 50vw;
+    margin: 3rem auto;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.update-section h1 {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+    margin-top: 5rem;
+}
+
+.update-section p {
+    width: 50vw;
+    margin: 0 auto;
+}
+
+.update-section div button {
+    position: relative;
+    left: -10px;
+    background-color: #ff595a;
+    color: white;
+    border: none;
+    outline: none;
+    padding: 0.8rem 2rem;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.update-section div input {
+    padding: 0.8rem 2rem;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border: none;
+    background-color: #d9d9d9;
+    font-weight: 700;
+    outline: none;
 }
